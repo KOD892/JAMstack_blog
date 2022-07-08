@@ -1,0 +1,23 @@
+{
+  "name": "jamstack_blog",
+  "version": "1.0.0",
+  "description": "A simple static blog",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KOD892/JAMstack_blog.git"
+  },
+  "author": "Danladi Galadima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KOD892/JAMstack_blog/issues"
+  },
+  "homepage": "https://github.com/KOD892/JAMstack_blog#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.1"
+  }
+}
